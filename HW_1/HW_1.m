@@ -33,6 +33,8 @@ t = Ball_mat.A(:,1);
 x = Ball_mat.A(:,2);
 t2 = Ball_mat.A(1:50,3);
 x2 = Ball_mat.A(1:50,2);
+
+% Test pull
 hold on
 plot(t,x,'r+')
 plot(t2,x2,'bo')
