@@ -1,0 +1,1 @@
+﻿function [v1,a1,v2,a2,t]=HW023 % load 'ball.mat' % define time(t) and trajectory(x) t = x = % calculate velocity and acceleration with 'for' loop for v1 = end for a1 = end % calculate velocity and acceleration with 'diff' function v2= a2=
