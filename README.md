@@ -1,9 +1,6 @@
 # Dynamics-and-Control-I
 Dynamics and Control I Homework with MATLAB 🛠📋
 
-
-Homewroks based on a lecture given by MIT.
-
 Mainly concentrated on numerical methods and using MATLAB® to solve dynamics and vibrations problems.
 
 I like the way Prof.Sanjay E. Sarma teaches the class, especially how he introduced the Magical formula (I love the names he gave to the equations):
