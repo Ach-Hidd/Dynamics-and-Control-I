@@ -8,4 +8,4 @@ Mainly concentrated on numerical methods and using MATLAB® to solve dynamics an
 
 I like the way he teaches the class, especially how he introduced the Magical formula:
 
-\frac{^{\mathbf{A}} d \mathbf{v}}{dt} = \frac{^{\mathbf{B}} d \mathbf{v}}{dt} + ^{\mathbf{A}}\mathbf{\omega}^{\mathbf{B}} \times \mathbf{v}
+![\Large \frac{^{\mathbf{A}} d \mathbf{v}}{dt} = \frac{^{\mathbf{B}} d \mathbf{v}}{dt} + ^{\mathbf{A}}\mathbf{\omega}^{\mathbf{B}} \times \mathbf{v}]
