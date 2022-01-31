@@ -8,7 +8,7 @@ I like the way Prof.Sanjay E. Sarma teaches the class, especially how he introdu
 <img src="https://latex.codecogs.com/svg.image?\bg_blue&space;\frac{^{\mathbf{A}}&space;d&space;\mathbf{v}}{dt}&space;=&space;\frac{^{\mathbf{B}}&space;d&space;\mathbf{v}}{dt}&plus;&space;^{\mathbf{A}}\mathbf{\omega}^{\mathbf{B}}&space;\times&space;\mathbf{v}" title="\bg_blue \frac{^{\mathbf{A}} d \mathbf{v}}{dt} = \frac{^{\mathbf{B}} d \mathbf{v}}{dt}+ ^{\mathbf{A}}\mathbf{\omega}^{\mathbf{B}} \times \mathbf{v}" />
 
 or the super-magic formula....
-\mathbf{\vec{a}_{B/O}  =  \vec{a}_{A/O} + \dot{\vec{\Omega}} \times \vec{r}_{B/A} } \mathbf{+ \, \vec{\Omega} \times (\vec{\Omega} \times \vec{r}_{B/A}) + 2 \vec{\Omega} \times (\vec{v}_{B/A})_{rel} + (\vec{a}_{B/A})_{rel} }
+\mathbf{\vec{a}_{B/O}  =  \vec{a}_{A/O} + \dot{\vec{\Omega}} \times \vec{r}_{B/A} + \, \vec{\Omega} \times (\vec{\Omega} \times \vec{r}_{B/A}) + 2 \vec{\Omega} \times (\vec{v}_{B/A})_{rel} + (\vec{a}_{B/A})_{rel} }
 Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
 Dynamics and Control I, Fall 2007. MIT OpenCourseWare (http://ocw.mit.edu), Massachusetts Institute of Technology. 
