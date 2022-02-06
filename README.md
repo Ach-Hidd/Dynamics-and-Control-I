@@ -13,6 +13,7 @@ or the super-magic formula....
 
 Summary of the homeworks:
 1- Intro to MATLAB: MATRIX Multiplication, etc.
+
 2- Plotting data: 2-D plots
 
 
