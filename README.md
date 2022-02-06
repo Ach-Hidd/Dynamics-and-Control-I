@@ -12,6 +12,7 @@ or the super-magic formula....
 <img src="https://latex.codecogs.com/svg.image?\mathbf{\vec{a}_{B/O}&space;&space;=&space;&space;\vec{a}_{A/O}&space;&plus;&space;\dot{\vec{\Omega}}&space;\times&space;\vec{r}_{B/A}&space;&plus;&space;\,&space;\vec{\Omega}&space;\times&space;(\vec{\Omega}&space;\times&space;\vec{r}_{B/A})&space;&plus;&space;2&space;\vec{\Omega}&space;\times&space;(\vec{v}_{B/A})_{rel}&space;&plus;&space;(\vec{a}_{B/A})_{rel}&space;}" title="\mathbf{\vec{a}_{B/O} = \vec{a}_{A/O} + \dot{\vec{\Omega}} \times \vec{r}_{B/A} + \, \vec{\Omega} \times (\vec{\Omega} \times \vec{r}_{B/A}) + 2 \vec{\Omega} \times (\vec{v}_{B/A})_{rel} + (\vec{a}_{B/A})_{rel} }" />
 
 Summary of the homeworks:
+
 1- Intro to MATLAB: MATRIX Multiplication, etc.
 
 2- Plotting data: 2-D plots
