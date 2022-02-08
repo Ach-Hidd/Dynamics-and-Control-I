@@ -17,6 +17,7 @@ Summary of the homeworks:
 
 2- Plotting data: 2-D plots
 
+3- Numerical methods for dynamics pronlem
 
 Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
