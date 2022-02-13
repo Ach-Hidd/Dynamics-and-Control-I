@@ -21,6 +21,10 @@ Summary of the homeworks:
 
 4- Recursive algorithms
 
+5-
+
+6-
+
 Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
 Dynamics and Control I, Fall 2007. MIT OpenCourseWare (http://ocw.mit.edu), Massachusetts Institute of Technology. 
