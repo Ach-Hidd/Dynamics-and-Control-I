@@ -67,6 +67,6 @@ for nbounce=1:3
     v(i)=-COR*v(i);
     % go back to calculate next height
 end
-
+plot(t,h)
 % Remove data after 3rd bounce
 t(end)=[]; v(end)=[]; h(end)=[];
