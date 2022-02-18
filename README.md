@@ -19,7 +19,7 @@ Summary of the homeworks:
 
 3- Numerical methods for dynamics problem
 
-4- Recursive algorithms
+4- Recursive algorithms & Function handle
 
 5-
 
