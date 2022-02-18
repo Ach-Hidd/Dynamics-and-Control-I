@@ -53,6 +53,6 @@ for nbounce=1:3
     % go back to calculate next height
     % with new condition after the ball bouncing.
 end
-
+plot(t,h)
 % Remove data after 3rd bounce
 t(end)=[]; v(end)=[]; h(end)=[];
