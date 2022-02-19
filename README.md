@@ -21,9 +21,11 @@ Summary of the homeworks:
 
 4- Recursive algorithms & Function handle
 
-5-
+5- Solving Diff Euqations
 
 6-
+
+7-
 
 Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
