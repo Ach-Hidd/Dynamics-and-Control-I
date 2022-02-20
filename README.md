@@ -23,7 +23,7 @@ Summary of the homeworks:
 
 5- Solving Diff Euqations
 
-6-
+6- Solving Non-linear Diff Equations
 
 7-
 
