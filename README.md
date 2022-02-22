@@ -19,7 +19,7 @@ Summary of the homeworks:
 
 3- Numerical methods for dynamics problem
 
-4- Recursive algorithms & Function handle -- Hanoi Tower a cool Problem! ;)
+4- Recursive algorithms & Function handle -- With the elegent Hanoi Tower Problem! ;)
 
 5- Solving Diff Euqations (Comparing Euler method with Runge-Kutta, and of R-K is always the best!)
 
