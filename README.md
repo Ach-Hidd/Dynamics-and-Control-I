@@ -25,7 +25,7 @@ Summary of the homeworks:
 
 6- Solving Non-linear Diff Equations
 
-7- Vibration analysis (Modal analysis)
+7- Vibration analysis (Modal analysis) -
 
 Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
