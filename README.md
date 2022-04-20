@@ -32,3 +32,4 @@ Source:
 Sanjay Sarma, Nicholas Makris, Yahya Modarres-Sadeghi, and Peter So, course materials for 2.003J/1.053J
 Dynamics and Control I, Fall 2007. MIT OpenCourseWare (http://ocw.mit.edu), Massachusetts Institute of Technology. 
  Downloaded on [28 01 2022]
+
