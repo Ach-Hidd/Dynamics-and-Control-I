@@ -21,7 +21,7 @@ Summary of the homeworks:
 
 4- Recursive algorithms & Function handle -- With the elegent Hanoi Tower Problem! ;)
 
-5- Solving Diff Euqations (Comparing Euler method with Runge-Kutta, and of R-K is always the best!)
+5- Solving Diff Euqations (Comparing Euler method with Runge-Kutta, and of course R-K is always the best!)
 
 6- Solving Non-linear Diff Equations
 
